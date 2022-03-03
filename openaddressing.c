@@ -94,11 +94,11 @@ void display()
 
 }
 
-main()
+void main()
 
 {
 
-    clrscr();
+    //clrscr();
 
     int opt,i;
 
